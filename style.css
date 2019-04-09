@@ -1,0 +1,32 @@
+#stage {	
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+}
+
+.ui {
+	display: none;
+	
+	position: absolute;
+	
+	border: none;
+	padding: 0;
+	
+	text-align: center;
+	
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+
+.ui:focus
+{
+	outline: none;
+}
+
+.ui-active
+{
+	display: inline-block;
+}
+
