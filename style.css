@@ -18,6 +18,8 @@
 	
 	font-size: 20px;
 	font-family: "Times New Roman";
+	
+	background-color: transparent;
 }
 
 .ui:focus
